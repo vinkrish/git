@@ -1,1 +1,3 @@
 Some more text edited again
+
+local reset edit
