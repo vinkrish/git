@@ -1,3 +1,5 @@
 Some more text edited again
 
 local reset edit
+
+edit before merge
