@@ -5,3 +5,5 @@ local reset edit
 edit before merge
 
 local merge
+
+after merge
