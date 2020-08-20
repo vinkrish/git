@@ -9,3 +9,5 @@ local edits
 reset edit
 
 edit afte merge
+
+remote merge
