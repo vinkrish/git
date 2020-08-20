@@ -3,3 +3,5 @@ Some text edited again
 reset edit
 
 edit before merge
+
+to be merged locally
