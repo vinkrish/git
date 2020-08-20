@@ -5,3 +5,5 @@ reset edit
 edit before merge
 
 to be merged locally
+
+merge all edits
