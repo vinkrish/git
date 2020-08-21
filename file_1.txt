@@ -13,3 +13,5 @@ to be merged locally
 local merge
 
 after merge
+
+before ammend

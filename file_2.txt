@@ -7,3 +7,5 @@ edit before merge
 local merge
 
 after merge
+
+for ammend
