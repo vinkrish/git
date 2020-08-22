@@ -1,4 +1,3 @@
 re-edit and to be restored by reset
 
 edit before revert
- - This will be lost after revert
