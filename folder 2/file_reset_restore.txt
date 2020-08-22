@@ -1,1 +1,1 @@
-delete and to be restored by reset
+edit and to be restored by reset
