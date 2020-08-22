@@ -9,3 +9,5 @@ local merge
 after merge
 
 for ammend
+
+edit before git add .

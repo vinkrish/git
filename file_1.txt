@@ -15,3 +15,5 @@ local merge
 after merge
 
 before ammend
+
+new file added but not commited
