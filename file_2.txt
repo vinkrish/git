@@ -11,3 +11,5 @@ after merge
 for ammend
 
 edit before git add .
+
+commit before merging new branch to master
